@@ -1,0 +1,22 @@
+.CharactersContent {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.Characters {
+  div {
+    display: block;
+    padding: 10px;
+  }
+  button {
+    margin: 3px 0 15px 0;
+  }
+  margin: 5px;
+
+  border: 1px solid black;
+  border-radius: 5%;
+  box-shadow: 3px 3px #888888;
+}
